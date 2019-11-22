@@ -1,3 +1,5 @@
+[![Docker Repository on Quay](https://quay.io/repository/mojanalytics/fluentd/status "Docker Repository on Quay")](https://quay.io/repository/mojanalytics/fluentd)
+
 # analytics-platform-fluentd
 Docker image for fluentd agent
 
